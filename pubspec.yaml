@@ -1,0 +1,27 @@
+name: make
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.4.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  animated_bottom_navigation_bar: ^1.4.0
+  flutter_riverpod: ^2.6.1
+  camera: ^0.10.5+2
+  chat_gpt_sdk: ^3.1.4
+  flutter_dotenv: ^5.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/robot.jpg
+    - .env
