@@ -12,7 +12,9 @@ A AI-driven waste management mobile application that uses navigation features, A
 - Flutter SDK (>= 3.4.3 < 4.0.0)
 - Dart SDK compatible with Flutter 3.4.3
 - An IDE like VSCode or Android Studio
-- A device or emulator for testing 
+- A device or emulator for testing
+- Circuit Setup: https://github.com/user-attachments/assets/e1e6da6e-5757-4553-a661-391e5d704d01 
+
 
 📚 Dependencies
 Core Dependencies: 
